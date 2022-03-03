@@ -35,6 +35,42 @@
         "lat": -122
       },
       "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Headphone on Sell",
+      "images": "https://m.media-amazon.com/images/I/41dqZOR-GwL._SX466_.jpg",
+      "price": 300,
+      "categoryId": 3,
+      "location": {
+        "long": 58.6,
+        "lat": 39.88
+      },
+      "userId": 1
+    }
+    {
+      "id": 5,
+      "title": "Desk Setup",
+      "images": "https://images.idgesg.net/images/article/2020/05/home-office-ideal-setup-angle-100843210-large.jpg?auto=webp&quality=85,70",
+      "price": 1000,
+      "categoryId": 1,
+      "location": {
+        "long": 37.6,
+        "lat": -122
+      },
+      "userId": 1
+    }
+{
+      "id": 6,
+      "title": "NFT on Sell",
+      "images": "https://images.livemint.com/img/2021/10/29/1600x900/Punk_1635498011829_1635498023269.png",
+      "price": 7890,
+      "categoryId": 6,
+      "location": {
+        "long": 37.6,
+        "lat": -122
+      },
+      "userId": 1
     }
   ]
 }
