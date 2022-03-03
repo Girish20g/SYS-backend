@@ -1,0 +1,40 @@
+{
+  "ListingsData": [
+    {
+      "id": 1,
+      "title": "Iqoo 9 Pro",
+      "images": "https://www.financialexpress.com/wp-content/uploads/2022/02/iqoo-9-series-story.jpg",
+      "price": 120,
+      "categoryId": 3,
+      "location": {
+        "long": 37.6,
+        "lat": -122
+      },
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "King Couch on Sell",
+      "images": "https://media.wired.com/photos/5f6e50f30cb5c0e55736d793/master/w_2400,h_1800,c_limit/Gear-Benchmade-Modern-Tyler-Sofa-SOURCE-Benchmade-Modern.jpg",
+      "price": 1400,
+      "categoryId": 2,
+      "location": {
+        "long": 37.6,
+        "lat": -122
+      },
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Ape NFT on Sell",
+      "images": "https://images.ctfassets.net/a9237abdyvg9/2GDeLs0jA3u3jHJsIlBTGT/d06c08a6f7a8e1bbdb34d43d8d78bc5f/boredape1.jpeg",
+      "price": 12000,
+      "categoryId": 6,
+      "location": {
+        "long": 37.6,
+        "lat": -122
+      },
+      "userId": 1
+    }
+  ]
+}
