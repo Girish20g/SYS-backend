@@ -47,7 +47,7 @@
         "lat": 39.88
       },
       "userId": 1
-    }
+    },
     {
       "id": 5,
       "title": "Desk Setup",
@@ -59,8 +59,8 @@
         "lat": -122
       },
       "userId": 1
-    }
-{
+    },
+    {
       "id": 6,
       "title": "NFT on Sell",
       "images": "https://images.livemint.com/img/2021/10/29/1600x900/Punk_1635498011829_1635498023269.png",
@@ -71,6 +71,6 @@
         "lat": -122
       },
       "userId": 1
-    }
+    },
   ]
 }
